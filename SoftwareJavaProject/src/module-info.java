@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author stech
+ *
+ */
+module SoftwareJavaProject {
+}
